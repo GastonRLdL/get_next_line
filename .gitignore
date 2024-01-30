@@ -1,7 +1,0 @@
-.DS_Store
-._*
-*.o
-*.a
-*.vscode
-obj
-ft_printf
